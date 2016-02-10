@@ -1,0 +1,40 @@
+_repo: The-Death-of-the-Gods-Christ-and-Antichrist-1-of-3_46492
+contributor:
+  translator:
+    agent_name: Trench, Herbert
+    birthdate: &id001 1865
+    deathdate: 1923
+    gutenberg_agent_id: '43814'
+    url: http://www.gutenberg.org/2009/agents/43814
+covers:
+- cover_type: archival
+  image_path: 46492/46492-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowski, Dmitri
+    - Mérejkowsky, Dmitry de
+    birthdate: *id001
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+description: ''
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Death of the Gods
+
+  (Christ and Antichrist, 1 of 3)'
+url: http://www.gutenberg.org/ebooks/46492
